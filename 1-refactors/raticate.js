@@ -46,17 +46,12 @@ log((new Date()).toLocaleString());
 
 // --- begin main script ---
 
-
-
 const URL = 'https://pokeapi.co/api/v2/pokemon/20';
 
 
-
-(async () => {
-  try {
-    log('fetching ' + URL + ' ...');
-    const dotDotDot = setInterval(() => log('...'), 100);
-    const res = await nodeFetch(URL);
+log('fetching ' + URL + ' ...');
+nodeFetch(URL)
+  .then(res => {
     clearInterval(dotDotDot);
 
     log('testing response ...');
@@ -64,7 +59,9 @@ const URL = 'https://pokeapi.co/api/v2/pokemon/20';
     assert.strictEqual(res.status, 200);
 
     log('parsing response ...');
-    const data = await res.json();
+    return res.json()
+  })
+  .then(data => {
 
     log('testing data ...');
     assert.strictEqual(data.name, 'raticate');
@@ -80,9 +77,48 @@ const URL = 'https://pokeapi.co/api/v2/pokemon/20';
     });
 
     log('... PASS!');
+  })
+  .catch(err => log(err.stack));
 
-  } catch (err) {
-    log(err.stack);
-  };
-})();
+
+const dotDotDot = setInterval(() => log('...'), 100);
+
+// 
+// const URL = 'https://pokeapi.co/api/v2/pokemon/20';
+
+
+
+// (async () => {
+//   try {
+//     log('fetching ' + URL + ' ...');
+//     const dotDotDot = setInterval(() => log('...'), 100);
+//     const res = await nodeFetch(URL);
+//     clearInterval(dotDotDot);
+
+//     log('testing response ...');
+//     assert.strictEqual(res.ok, true);
+//     assert.strictEqual(res.status, 200);
+
+//     log('parsing response ...');
+//     const data = await res.json();
+
+//     log('testing data ...');
+//     assert.strictEqual(data.name, 'raticate');
+//     assert.strictEqual(data.id, 20);
+//     assert.strictEqual(data.height, 7);
+//     assert.deepStrictEqual(data.abilities[2], {
+//       ability: {
+//         name: "run-away",
+//         url: "https://pokeapi.co/api/v2/ability/50/"
+//       },
+//       is_hidden: false,
+//       slot: 1
+//     });
+
+//     log('... PASS!');
+
+//   } catch (err) {
+//     log(err.stack);
+//   };
+// })();
 

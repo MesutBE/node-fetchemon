@@ -46,13 +46,12 @@ log((new Date()).toLocaleString());
 
 // --- begin main script ---
 
+const URL = 'https://pokeapi.co/api/v2/pokemon/butterfree';
 
 
-const main = async (URL) => {
-  try {
-    log('fetching ' + URL + ' ...');
-    const dotDotDot = setInterval(() => log('...'), 100);
-    const res = await nodeFetch(URL);
+log('fetching ' + URL + ' ...');
+nodeFetch(URL)
+  .then(res => {
     clearInterval(dotDotDot);
 
     log('testing response ...');
@@ -60,7 +59,9 @@ const main = async (URL) => {
     assert.strictEqual(res.status, 200);
 
     log('parsing response ...');
-    const data = await res.json();
+    return res.json()
+  })
+  .then(data => {
 
     log('testing data ...');
     assert.strictEqual(data.name, 'butterfree');
@@ -77,11 +78,46 @@ const main = async (URL) => {
     ]);
 
     log('... PASS!');
+  })
+  .catch(err => log(err.stack));
 
-  } catch (err) {
-    log(err.stack);
-  };
-};
 
-main('https://pokeapi.co/api/v2/pokemon/butterfree');
+const dotDotDot = setInterval(() => log('...'), 100);
+
+// const main = async (URL) => {
+//   try {
+//     log('fetching ' + URL + ' ...');
+//     const dotDotDot = setInterval(() => log('...'), 100);
+//     const res = await nodeFetch(URL);
+//     clearInterval(dotDotDot);
+
+//     log('testing response ...');
+//     assert.strictEqual(res.ok, true);
+//     assert.strictEqual(res.status, 200);
+
+//     log('parsing response ...');
+//     const data = await res.json();
+
+//     log('testing data ...');
+//     assert.strictEqual(data.name, 'butterfree');
+//     assert.strictEqual(data.id, 12);
+//     assert.deepStrictEqual(data.species, {
+//       name: "butterfree",
+//       url: "https://pokeapi.co/api/v2/pokemon-species/12/"
+//     });
+//     assert.deepStrictEqual(data.forms, [
+//       {
+//         name: "butterfree",
+//         url: "https://pokeapi.co/api/v2/pokemon-form/12/"
+//       }
+//     ]);
+
+//     log('... PASS!');
+
+//   } catch (err) {
+//     log(err.stack);
+//   };
+// };
+
+// main('https://pokeapi.co/api/v2/pokemon/butterfree');
 
