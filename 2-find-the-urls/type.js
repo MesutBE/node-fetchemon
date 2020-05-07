@@ -47,7 +47,7 @@ log((new Date()).toLocaleString());
 // --- begin main script ---
 
 
-const URL = 'https://pokeapi.co/api/v2/_';
+const URL = 'https://pokeapi.co/api/v2/type/ice';
 
 
 log('fetching ' + URL + ' ...');

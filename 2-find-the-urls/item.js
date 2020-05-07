@@ -76,4 +76,4 @@ const main = async (URL) => {
 };
 
 
-main('https://pokeapi.co/api/v2/_');
+main('https://pokeapi.co/api/v2/item/water-stone');
