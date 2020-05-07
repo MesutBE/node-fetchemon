@@ -47,6 +47,56 @@ log((new Date()).toLocaleString());
 // --- begin main script ---
 
 
+const verify = async (URL) => {
+  try {
+    log('fetching ' + URL + ' ...');
+    const dotDotDot = setInterval(() => log('...'), 100);
+    const res = await nodeFetch(URL);
+    clearInterval(dotDotDot);
+
+    log('testing response ...');
+    assert.strictEqual(res.ok, true);
+    assert.strictEqual(res.status, 200);
+
+    log('parsing response ...');
+    const data = await res.json();
+
+    log('testing data ...');
+    assert.strictEqual(data.chain.evolves_to[0].species.name, 'starmie');
+
+    log('... PASS!');
+    // log(data.chain.evolves_to[0].species.url)
+    find(data.chain.evolves_to[0].species.url);
+
+  } catch (err) {
+    log(err.stack);
+  };
+};
+
+verify('https://pokeapi.co/api/v2/evolution-chain/56');
+
+const find = async (URL) => {
+  try {
+    log('fetching ' + URL + ' ...');
+    const dotDotDot = setInterval(() => log('...'), 100);
+    const res = await nodeFetch(URL);
+    clearInterval(dotDotDot);
+
+    log('testing response ...');
+    assert.strictEqual(res.ok, true);
+    assert.strictEqual(res.status, 200);
+
+    log('parsing response ...');
+    const data = await res.json();
+
+    log(`it is ${data.evolves_from_species.name}`);
+
+  } catch (err) {
+    log(err.stack);
+  };
+};
+
+
 // the pokemon who's next evolution is named Starmie
 
 

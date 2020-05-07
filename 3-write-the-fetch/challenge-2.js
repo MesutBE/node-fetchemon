@@ -46,6 +46,30 @@ log((new Date()).toLocaleString());
 
 // --- begin main script ---
 
+
+const main = async (URL) => {
+  try {
+    const res = await nodeFetch(URL);
+    const data = await res.json();
+
+    if (data.moves.length === 71
+      && data.abilities[0].ability.name === 'hustle') {
+
+      log(`it is ${data.name}`);
+
+    }
+
+  } catch (err) {
+    log(err.stack);
+  };
+};
+
+for (let i = 1; i <= 100; i++) { //1005
+
+  main(`https://pokeapi.co/api/v2/pokemon/${i}`);
+
+}
+
 // the pokemon with 71 moves and the abilities "hustle", "rivalry", "poison-point"
 
 

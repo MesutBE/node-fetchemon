@@ -46,6 +46,42 @@ log((new Date()).toLocaleString());
 
 // --- begin main script ---
 
+
+const findWhat = {
+  item: 'item',
+  move: 'move',
+  pokemon: 'pokemon',
+  type: 'type',
+  evolutionChain: 'evolution-chain',
+  itemAttribute: 'item-attribute',
+};
+
+const main = async (URL) => {
+  try {
+    const res = await nodeFetch(URL);
+    if (res.ok && res.status === 200) {
+      
+      const data = await res.json();
+
+
+      if (data.moves.length === 28) {
+
+        log(`first.. it is ${data.name} and url: ${URL}`);
+        return true;
+      }
+    }
+  } catch (err) {
+    log(err.stack);
+  };
+};
+
+for (let i = 1; i <= 1000; i++) { //1005
+
+  const result = main(`https://pokeapi.co/api/v2/${findWhat.pokemon}/${i}`);
+
+  if(result){ break; }
+}
+
 // the type with 28 moves, 7 names, and 72 items
 
 

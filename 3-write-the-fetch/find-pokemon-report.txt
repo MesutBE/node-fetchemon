@@ -1,0 +1,904 @@
+15 ms: 5/7/2020, 1:25:46 PM
+2064 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/811 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2066 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/808 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2068 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/810 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2070 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/815 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2071 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/812 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2073 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/809 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2076 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/813 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2083 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/869 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2085 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/817 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2089 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/872 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2093 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/864 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2095 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/816 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2098 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/856 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2100 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/871 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2105 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/873 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2157 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/880 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2162 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/886 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2164 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/889 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2164 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/885 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2168 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/895 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2174 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/887 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2186 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/894 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2246 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/950 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2247 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/947 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2249 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/814 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2250 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/954 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2257 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/868 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2259 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/953 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2265 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/949 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2267 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/955 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2268 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/960 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2269 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/956 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2271 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/961 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2272 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/951 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2273 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/952 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+2458 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/892 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3455 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/832 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3456 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/831 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3461 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/834 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3469 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/825 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3486 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/821 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3487 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/822 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3487 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/818 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3488 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/820 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3490 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/824 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3492 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/819 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3541 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/863 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3628 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/901 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3629 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/905 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3651 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/909 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3817 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/992 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3820 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/931 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3821 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/991 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3826 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/985 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3827 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/988 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3830 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/980 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3831 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/982 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3832 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/921 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3834 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/981 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3835 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/986 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+3896 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/959 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+4023 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/830 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+4067 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/842 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+4899 ms: wimpod
+5022 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/844 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5089 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/835 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5647 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/859 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5648 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/853 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5650 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/854 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5652 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/850 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5653 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/855 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5654 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/836 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5655 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/860 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5656 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/851 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5657 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/852 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5658 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/849 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5659 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/847 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5662 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/843 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5663 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/823 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5666 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/848 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5667 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/866 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5668 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/833 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5669 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/862 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5892 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/941 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5904 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/945 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5967 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/943 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+5976 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/940 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6000 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/875 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6002 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/881 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6004 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/879 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6006 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/939 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6007 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/883 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6011 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/948 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6017 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/944 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6038 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/882 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6039 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/888 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6040 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/890 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6041 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/896 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6046 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/884 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6047 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/878 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6052 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/942 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6055 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/891 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6058 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/877 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6072 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/876 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6079 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/995 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6114 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/934 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6123 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/930 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6134 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/999 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6161 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/935 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6201 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/932 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6206 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/937 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6254 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/929 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6469 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/927 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6474 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/933 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6478 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/925 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6479 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/938 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6485 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/838 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6493 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/936 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6496 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/874 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6505 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/903 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6507 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/912 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6508 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/902 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6510 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/917 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6511 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/899 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6512 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/914 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6518 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/998 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6519 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/904 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6526 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/916 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6528 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/910 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6529 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/906 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6531 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/911 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6533 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/907 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6534 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/908 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6536 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/897 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6538 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/997 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6592 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/990 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6682 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/839 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6725 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/919 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6754 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/924 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6793 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/928 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6801 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/845 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6857 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/900 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6876 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/846 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6886 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/958 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6890 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/957 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6894 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/861 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6902 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/963 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6904 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/965 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6905 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/962 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6913 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/964 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6922 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/867 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6933 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/989 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6935 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/983 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6938 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/984 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6940 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/987 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+6998 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/840 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+7096 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/829 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+7508 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/841 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+7905 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/898 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+7996 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/978 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+8484 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/922 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9488 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/918 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9495 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/923 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9732 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/977 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9733 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/967 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9781 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/970 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9783 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/969 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9862 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/972 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9885 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/968 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9893 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/920 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+9977 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/966 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10062 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/971 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10064 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/915 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10129 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/975 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10139 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/974 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10155 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/973 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10201 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/979 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10253 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/913 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10680 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/926 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10758 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/976 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10799 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/857 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10806 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/828 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10807 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/858 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10826 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/865 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+10848 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/826 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+11010 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/996 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+11592 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/993 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+11593 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/870 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+11596 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/827 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+11596 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/1000 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+11601 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/837 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+11631 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/893 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+11720 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/994 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
+11864 ms: FetchError: invalid json response body at https://pokeapi.co/api/v2/pokemon/946 reason: Unexpected token N in JSON at position 0
+    at /home/hackyourfuture/Documents/HYF/06-web-apps/ex-1/node-fetchemon/node_modules/node-fetch/lib/index.js:272:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async main ( [ ... ] /find-pokemon.js:63:22)
